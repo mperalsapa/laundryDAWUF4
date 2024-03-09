@@ -38,3 +38,4 @@
 
 ## Contributors
 - Marc Peral (2024)
+- Marc Peral (Propietari)
