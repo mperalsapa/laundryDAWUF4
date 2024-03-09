@@ -39,3 +39,4 @@
 ## Contributors
 - Marc Peral (2024)
 - MPC2 (Col·laborador)
+- Marc Peral (Propietari)
