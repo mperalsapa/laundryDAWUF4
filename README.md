@@ -35,3 +35,6 @@
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
 ---
+
+## Contributors
+- Marc Peral
