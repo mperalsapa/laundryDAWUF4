@@ -37,4 +37,4 @@
 ---
 
 ## Contributors
-- Marc Peral
+- Marc Peral (2024)
